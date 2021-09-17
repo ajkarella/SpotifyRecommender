@@ -37,7 +37,6 @@
         - EDA
         - Songs classification
 
-4. Hristina Shangova - I have graduated with a Bachelor in Biology from George Mason University. After my graduation, I worked as a clinical medical technologist for Quest Diagnostics, following a position as a quality assurance scientist for a public health laboratory. I have a healthcare background which I am looking to combine with a strong foundation in Data Science and data management. I hope to improve my Python coding skills and learn new data computational and data analytical methods.
 
 ### The Data
 
@@ -167,8 +166,4 @@ This made us realize that we don't know how much of that 170K song list is good 
 
 ## Distribution Plan
 
-Our completed project is now hosted on Github at the following URL.
-
-LINK LINK LINK LINK
-
-For this upload, unlike our submission, we stripped some information that we deemed sensitive. This includes the SQL server's IP address and login credentials, and Spotify API keys.
+Our completed project is now hosted on Github here.
